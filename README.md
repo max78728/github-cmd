@@ -1,6 +1,5 @@
 # github-cmd
-- **git clone: 複製遠端專案**
-----
+> - **git clone: 複製遠端專案**
 
 - **git status: 查看專案狀態**
 
