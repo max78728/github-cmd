@@ -1,6 +1,6 @@
 # github-cmd
->- git clone: 複製遠端專案
->
+>- git clone : 複製遠端專案
+>    git clone git@github.com:max78728/github-cmd.git
 >- git status: 查看專案狀態
 >
 >- git add: 新增/修改檔案
