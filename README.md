@@ -1,15 +1,14 @@
 # github-cmd
-- git clone: ½Æ»s»·ºİ±M®×
-******
+- ##git clone: è¤‡è£½é ç«¯å°ˆæ¡ˆ
 
-- git status: ¬d¬İ±M®×ª¬ºA
+- git status: æŸ¥çœ‹å°ˆæ¡ˆç‹€æ…‹
 
-- git add: ·s¼W/­×§ïÀÉ®×
+- git add: æ–°å¢/ä¿®æ”¹æª”æ¡ˆ
 
-- git rm: §R°£ÀÉ®×
+- git rm: åˆªé™¤æª”æ¡ˆ
 
-- git commit -m "msg...": ±M®×¦sÀÉ
+- git commit -m "msg...": å°ˆæ¡ˆå­˜æª”
 
-- git push: ¤W¶Ç¨ì»·ºİ
+- git push: ä¸Šå‚³åˆ°é ç«¯
 
-- git pull: ¤U¸ü»·ºİ¦³§ó·sªº³¡¤À
+- git pull: ä¸‹è¼‰é ç«¯æœ‰æ›´æ–°çš„éƒ¨åˆ†
