@@ -1,12 +1,15 @@
 # github-cmd
-git clone: 複製遠端專案
+- git clone: 複製遠端專案
+******
 
-git status: 查看專案狀態
+- git status: 查看專案狀態
 
-git add: 修改檔案狀態準備commit
+- git add: 新增/修改檔案
 
-git commit -m "msg...": 專案存檔
+- git rm: 刪除檔案
 
-git push: 上傳到遠端
+- git commit -m "msg...": 專案存檔
 
-git pull: 下載遠端有更新的部分
+- git push: 上傳到遠端
+
+- git pull: 下載遠端有更新的部分
